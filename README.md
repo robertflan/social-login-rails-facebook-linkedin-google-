@@ -41,8 +41,7 @@ I am using devise in this application. Few things to note in this:
 
 ## Contributors
 
-* [Mohit Jain](http://www.codebeerstartups.com/about)
-
+* Smart-web-rock
 
 ## License
 
